@@ -9,5 +9,4 @@ Feature list:
   min(1,(TOTAL Tombs of Amascut KC (Normal + Expert))/100) +
   min(1,(TOTAL Chambers of Xeric KC (Normal + CM))/100) +
   min(1,(Corrupted Gauntlet KC)/400)
-
- `
+`
